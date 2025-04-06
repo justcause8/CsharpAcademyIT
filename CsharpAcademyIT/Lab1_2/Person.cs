@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CsharpAcademyIT.Lab2
+namespace CsharpAcademyIT.Lab1_2
 {
     public class Person
     {
