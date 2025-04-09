@@ -8,7 +8,7 @@ namespace CsharpAcademyIT.Lab1
 {
     class ProgrammLab01
     {
-        static void MainLab01()
+        static void Main()
         {
             Console.WriteLine("Основной поток начал работу");
 

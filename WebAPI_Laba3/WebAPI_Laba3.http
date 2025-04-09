@@ -1,0 +1,6 @@
+@WebAPI_Laba3_HostAddress = http://localhost:5163
+
+GET {{WebAPI_Laba3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
